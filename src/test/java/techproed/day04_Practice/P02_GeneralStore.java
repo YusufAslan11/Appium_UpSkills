@@ -19,7 +19,7 @@ Let’s Shop butonuna tıkla
 Sepete gir
 Sepette iki ürün olduğunu doğrula
 Ürün fiyatlarını topla
-Total Purchase Amount bölümündeki tutarın doğru olduğunu doğrula
+Total Purchase Amount bölümündeki tutarın doğru olduğunu doğrulaasa
 Send me e-mails.. kutusunu seç
 Visit to the website.. butonuna tıkla */
 
